@@ -19,10 +19,10 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=latex" height="40"/>
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postgres"  height="40"/>
-  <img width="6" />
 </div>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres"  height="40"/>
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=ableton" height="40"/>
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
