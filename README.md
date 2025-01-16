@@ -50,8 +50,6 @@
 
 # My Projects
 
-# My Projects
-
 | Name             | Description                                                                            | Link                                                             | Status  |
 |------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------|---------|
 | PyTaiko          | A full recreation of the game "Taiko no Tatsujin", based on the gen 3 arcade version   | [PyTaiko](https://github.com/Yonokid/PyTaiko)                    | Develop |
