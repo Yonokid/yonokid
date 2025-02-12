@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yonokid&show_icons=true&theme=tokyonight&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonokid&layout=compact&card_width=320&langs_count=6&theme=vue-dark&order=2" height="175" 200="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonokid&layout=compact&card_width=320&langs_count=6&theme=vue-dark&order=2" height="175" 200="languages graph" />
 </div>
 
 # My Projects
