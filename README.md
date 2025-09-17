@@ -55,4 +55,4 @@
 | PyTaiko          | A full recreation of the game "Taiko no Tatsujin", based on the gen 3 arcade version   | [PyTaiko](https://github.com/Yonokid/PyTaiko)                    | Develop |
 | IDCardEditor     | Web Based save data manager for Initial D Card profiles, with live leaderboard         | [IDCardEditor](https://github.com/Yonokid/IDCardEditor)          | Production |
 | AmuseQueue       | Web Based queue system for arcade management, using websockets                         | [AmuseQueue](https://github.com/Yonokid/AmuseQueue)              | Production |
-| BemaniPatcher    | Frequent contributor; reverse engineering and discovering hex edit patches             | [BemaniPatcher](https://github.com/mon/BemaniPatcher)            | Production |
+| surfridetools    | Conversion tool for SEGA's proprietary surfride format                                 | [surfridetools](https://github.com/Yonokid/surfridetools)        | Production |
