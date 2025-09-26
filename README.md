@@ -57,3 +57,4 @@
 | AmuseQueue       | Web Based queue system for arcade management, using websockets                         | [AmuseQueue](https://github.com/Yonokid/AmuseQueue)                 | Production |
 | surfridetools    | Conversion library for SEGA's proprietary surfride format                              | [surfridetools](https://github.com/Yonokid/surfridetools)           | Production |
 | chutranslation   | Tools and source materials, and autobuilding scripts for translating CHUNITHM          | [chutranslation](https://gitea.tendokyu.moe/Yonokid/chutranslation) | Production |
+| chuni-resource-viewer | React native web application for viewing source materials from said above repo    | [chuni-resource-viewer](https://github.com/Yonokid/chuni-resource-viewer) | Develop |
